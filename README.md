@@ -1,7 +1,7 @@
 # distortion-telegram-bot
 An easy bot, that distorts any picture you send to it
 
-Bot that made for educational purposes for Summer Informatics School at Chelyabinsk for subject "Web programming"
+Bot that made for educational purposes at Summer Informatics School at Chelyabinsk for subject "Web programming"
 
 ### Run locally
 `python3 main.py`
